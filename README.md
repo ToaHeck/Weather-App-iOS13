@@ -5,7 +5,8 @@
 
 This iOS app, written in Swift 5, is designed to inform the user of the current weather data in different cities worldwide. By utilizing Open Weather Map's free API, this application allows the user to type in any city in the world and display the current weather in that particular city. This application will also display the current weather conditions of wherever the user currently resides. This project introduces closures, protocols, deletages, and extensions which helped organize the codebase. Additionally, the application will change the UI depending on the user's system preferences, specifically if it is set to dark or light. mode.
 
-# <center>Your centered content goes here</center>
+# # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![weather](https://github.com/ToaHeck/Weather-App-iOS13/assets/91290295/8ddcfcd9-b39c-4985-a5c9-fbc9e4b6dc45)
+
 
 ## Features
 
